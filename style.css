@@ -86,6 +86,7 @@ header {
     text-decoration: underline;
     background-color: rgba(255,255,255,.8);
     color: black;
+    transition: background .2s 0.3s linear;
 }
 
 
